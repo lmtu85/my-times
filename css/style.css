@@ -1,0 +1,27 @@
+header {
+  position: fixed;
+  width: 100%;
+}
+
+.mytimes {
+  font-family: verdana;
+  font-size: 14px;
+  font-weight; bold;
+  font-family: verdana;
+  font-size: 14px;
+  font-weight; bold;
+  color: MediumAquamarine;
+}
+
+nav {
+  margin: 0 auto;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 auto;
+  width: 100%;
+  font-family: verdana;
+  font-size: 14px;
+  font-weight; bold;
+}
