@@ -1,27 +1,14 @@
 header {
-  position: fixed;
-  width: 100%;
-}
-
-.mytimes {
-  font-family: verdana;
+  font-family: verdana, sans-serif;
   font-size: 14px;
-  font-weight; bold;
-  font-family: verdana;
-  font-size: 14px;
-  font-weight; bold;
-  color: MediumAquamarine;
+  font-weight: bold;
+  display: flex;
+  }
+
+.logo span {
+  color: mediumaquamarine;
 }
 
-nav {
-  margin: 0 auto;
-}
-
-nav li {
+nav span {
   display: inline-block;
-  margin: 0 auto;
-  width: 100%;
-  font-family: verdana;
-  font-size: 14px;
-  font-weight; bold;
 }
